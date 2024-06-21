@@ -1,8 +1,8 @@
 
 // import "./App.css";
-import Colordiv from "./component.js/colordiv";
-import Quiz from "./component.js/quiz";
-import Servey from "./component.js/servey";
+import Colordiv from "./component/colordiv";
+import Quiz from "./component/quiz";
+import Servey from "./component/servey";
 
 function App() {
   return (

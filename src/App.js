@@ -1,11 +1,16 @@
-import logo from "./logo.svg";
-import "./App.css";
+
+// import "./App.css";
 import Colordiv from "./component.js/colordiv";
+import Quiz from "./component.js/quiz";
+import Servey from "./component.js/servey";
 
 function App() {
   return (
     <div className="App">
-      <Colordiv />
+      {/* <Colordiv /> */}
+      <Quiz/>
+      {/* <Servey/> */}
+
     </div>
   );
 }

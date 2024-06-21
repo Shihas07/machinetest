@@ -1,0 +1,13 @@
+.servey{
+
+   height: 500px;
+   width: 500px;
+  border-radius: 10px;
+  border-color: black;
+  background-color: rgb(120, 153, 181);
+  /* margin-left: -100px; */
+}
+
+.servey h1{
+  margin-left: 100px;
+}
